@@ -67,3 +67,4 @@ def get_numbers_from_file(filename):
     
     
 get_numbers_from_file("sites.txt")
+get_emails_from_file("sites.txt")
